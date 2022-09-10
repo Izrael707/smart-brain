@@ -1,7 +1,5 @@
-# SmartBrain - v3
-Final project for ZTM course
+Smart Brain!
 
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+This Magic brain will detect faces in your pictures (Can only detect 1 face per Pic at the moment) 
+Just register and Sign in!
+https://smart-brain-707.herokuapp.com/
